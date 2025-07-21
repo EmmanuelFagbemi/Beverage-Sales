@@ -1,6 +1,11 @@
-This report shows the analysis of US beverage sales, capturing yearly, quarterly, monthly, states and regional metrics as seen in dashboard. Listed below are findings from analysis of the US beverage data.
+## Context
+The US beverage sale dataset comprises of 9 columns and 3740 rows, with retailer names, brand names,  date of transaction, states and regions, price per units and units sold. The revenue was hence gotten from the product of price per units and units sold, and also the longitude and latitude of the states were further sorted from secondary sources for accurate visualization.   
+
+## Inspiration
+This report was made to show insights to the US beverage sales dataset, capturing states and regional metrics pn monthly and quarterly basis as seen in the dashboard. 
 
 ![__](Dashboard.png "Beverage sales dashboard")
+
 ![](Dashboardpg2.png "Beverage sales dashboard 2")
 ###### _Beverage Sales Dashboard_
 
@@ -41,3 +46,8 @@ Proper management/monitoring should be carried out with each state, because thei
 ### Performance Gaps 
 - There is a clear gap between the top-performing and bottom-performing regions, indicating potential for targeted strategies in lower-performing regions for instance regional targeted promotions.
 
+
+## Data files
+[Excel file](<Beverage Sales Analysis_US.xlsx>) | [PowerBi file](<Beverage Sales analysis.pbix>) | 
+ [Word.docx file](<US BEVERAGE SALES ANALYSIS.docx>) | 
+[Word.pdf file](<US BEVERAGE SALES ANALYSIS.pdf>)
