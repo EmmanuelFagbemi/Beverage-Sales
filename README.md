@@ -4,10 +4,10 @@ The US beverage sale dataset comprises of 9 columns and 3740 rows, with retailer
 ## Inspiration
 This report was made to show insights to the US beverage sales dataset, capturing states and regional metrics pn monthly and quarterly basis as seen in the dashboard. 
 
-![__](Images\Dashboard.png
+![__](Images/Dashboard.pngDashboard.png
  "Beverage sales dashboard")
 
-![](Images\Dashboardpg2.png
+![](Images/Dashboardpg2.png
  "Beverage sales dashboard 2")
 ###### _Beverage Sales Dashboard_
 
