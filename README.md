@@ -4,9 +4,11 @@ The US beverage sale dataset comprises of 9 columns and 3740 rows, with retailer
 ## Inspiration
 This report was made to show insights to the US beverage sales dataset, capturing states and regional metrics pn monthly and quarterly basis as seen in the dashboard. 
 
-![__](Dashboard.png "Beverage sales dashboard")
+![__](Images\Dashboard.png
+ "Beverage sales dashboard")
 
-![](Dashboardpg2.png "Beverage sales dashboard 2")
+![](Images\Dashboardpg2.png
+ "Beverage sales dashboard 2")
 ###### _Beverage Sales Dashboard_
 
 ## Key Findings
@@ -27,7 +29,7 @@ The dashboard allows filtering by region and beverage brand, which is useful for
     
 The West region is the best performing region with 2.4M revenue generated and the Midwest region with 1.15M. There should be a sales promotion or a retailer swap in the Midwest region to promote sales.
 
-![](Map.png "States")
+![](Images\Map.png "States")
 ###### _Map of the US showing heat-map of Revenue by States_.
     States		
 Proper management/monitoring should be carried out with each state, because their performance directly affects regional sales performance and results.
